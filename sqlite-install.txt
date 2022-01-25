@@ -1,0 +1,3 @@
+#Instalar sqlite Ubuntu 20.04
+
+https://www.edivaldobrito.com.br/como-instalar-a-ultima-versao-do-sqlite-no-ubuntu-20-04/
